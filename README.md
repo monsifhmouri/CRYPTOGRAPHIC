@@ -1,4 +1,6 @@
 # MØNSTR-M1ND CRYPTOGRAPHIC ENGINE
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](http://t.me/monstr_m1nd)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/httpx.mrmonsif/)
 ![MØNSTR-M1ND](picture.png)
 **Quantum-Resistant Encryption System**
 Professional-grade cryptographic engine with quantum-resistant encryption and numeric encoding. Built for secure communications.
@@ -55,8 +57,8 @@ python monstr_crypto.py
 **MØNSTR-M1ND**  
 Blackhat MCA 4HKRS
 ## Contact
-Telegram: @monstr_m1nd
-Instagram: @httpx.mrmonsif
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](http://t.me/monstr_m1nd)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/httpx.mrmonsif/)
 ## Version
 2.0 (Stable Release)
 ## Notes
